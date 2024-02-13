@@ -4,7 +4,7 @@
 
 1. [Github Account](https://github.com)
 2. [VSCodIDE](https://code.visualstudio.com/)
-3. [HerokuAccount](https://heroku.com)
+3. [HerokuAccount](https://heroku.com) 
 
 Create a new environment
 ```
